@@ -1,5 +1,6 @@
 <h1> Nav Bar and Hero Section </h1>
-<img width="798" alt="Screen Shot 2022-09-30 at 3 19 20 PM" src="https://user-images.githubusercontent.com/89409701/193350177-eaa49e57-5574-4a88-992d-a8da83768fc2.png">
+<img width="802" alt="Screen Shot 2022-09-30 at 3 10 38 PM" src="https://user-images.githubusercontent.com/89409701/193350373-466042c6-91fe-40d9-b9b5-689da3fb94ab.png">
+
 
 
 <h1> Props section </h1>
